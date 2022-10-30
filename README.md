@@ -30,7 +30,7 @@ Create a resume for Sophie using the CSS Fundamentals you have previously learne
 
 ### Screenshot
 
-![Desktop Screenshot](imgs/ss-desktop.png)
+![Desktop Screenshare](imgs/ss-desktop.gif)
 
 ### Links
 
